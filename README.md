@@ -1,5 +1,5 @@
 ### Hi there 👋
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexisOMG&count_private=true)-->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexisOMG&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexisOMG&exclude_repo=killer&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
